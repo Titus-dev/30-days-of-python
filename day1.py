@@ -9,3 +9,5 @@ print(2 ** 3 * 2)
 2+2
 print(23%5)
 print(22//7)
+multiplication = 3 * 4
+print(multiplication)
